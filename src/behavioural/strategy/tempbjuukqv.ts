@@ -1,0 +1,1 @@
+shoppingCart.discount = new NewDiscount();
